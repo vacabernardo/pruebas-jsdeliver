@@ -1,1 +1,1 @@
-console.log("Hola mundo v1.1 con github pages!");
+console.log("Hola mundo v2.0 con github pages!");
